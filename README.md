@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sangmihwang&&show_icons=true&theme=dark)
+
 <!--
 **sangmihwang/sangmihwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
